@@ -1,0 +1,217 @@
+[
+  {
+    "PropertyName": "ss_sd_model_name",
+    "Description": "Model Name",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_clip_skip",
+    "Description": "Clip Skip",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_num_train_images",
+    "Description": "Number of Training Images",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_tag_frequency",
+    "Description": "Tag Frequency",
+    "MetadataType": "TagFrequency"
+  },
+  {
+    "PropertyName": "ss_epoch",
+    "Description": "Epochs",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_face_crop_aug_range",
+    "Description": "Face Crop Augmentation Range",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_full_fp16",
+    "Description": "Full FP16",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_gradient_accumulation_steps",
+    "Description": "Gradient Accumulation Steps",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_gradient_checkpointing",
+    "Description": "Gradient Checkpointing",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_learning_rate",
+    "Description": "Learning Rate",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_lowram",
+    "Description": "Low RAM",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_lr_scheduler",
+    "Description": "Learning Rate Scheduler",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_lr_warmup_steps",
+    "Description": "Learning Rate Warmup Steps",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_max_grad_norm",
+    "Description": "Max Gradient Norm",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_max_token_length",
+    "Description": "Max Token Length",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_max_train_steps",
+    "Description": "Max Training Steps",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_min_snr_gamma",
+    "Description": "Min SNR Gamma",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_mixed_precision",
+    "Description": "Mixed Precision",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_network_alpha",
+    "Description": "Network Alpha",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_network_dim",
+    "Description": "Network Dimension",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_network_module",
+    "Description": "Network Module",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_new_sd_model_hash",
+    "Description": "New SD Model Hash",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_noise_offset",
+    "Description": "Noise Offset",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_num_batches_per_epoch",
+    "Description": "Number of Batches per Epoch",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_cache_latents",
+    "Description": "Cache Latents",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_caption_dropout_every_n_epochs",
+    "Description": "Caption Dropout Every N Epochs",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_caption_dropout_rate",
+    "Description": "Caption Dropout Rate",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_caption_tag_dropout_rate",
+    "Description": "Caption Tag Dropout Rate",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_dataset_dirs",
+    "Description": "Dataset Directories",
+    "MetadataType": "DatasetDirs"
+  },
+  {
+    "PropertyName": "ss_num_epochs",
+    "Description": "Number of Epochs",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_num_reg_images",
+    "Description": "Number of Regression Images",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_optimizer",
+    "Description": "Optimizer",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_output_name",
+    "Description": "Output Name",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_prior_loss_weight",
+    "Description": "Prior Loss Weight",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_sd_model_hash",
+    "Description": "SD Model Hash",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_sd_scripts_commit_hash",
+    "Description": "SD Scripts Commit Hash",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_seed",
+    "Description": "Seed",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_session_id",
+    "Description": "Session ID",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_text_encoder_lr",
+    "Description": "Text Encoder Learning Rate",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_unet_lr",
+    "Description": "UNet Learning Rate",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "ss_v2",
+    "Description": "Version 2",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "sshs_legacy_hash",
+    "Description": "SSHS Legacy Hash",
+    "MetadataType": null
+  },
+  {
+    "PropertyName": "sshs_model_hash",
+    "Description": "SSHS Model Hash",
+    "MetadataType": null
+  }
+]

@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs
+**/bin
+**/obj
+**/Safetensors.Inspector.UX/Properties/Resources.Designer.cs
+**/Safetensors.Inspector.UX/Properties/Resources.resx
+**/Safetensors.Inspector.UX/Properties/Settings.Designer.cs
+**/Safetensors.Inspector.UX/Properties/Settings.settings
+**/Safetensors.Inspector.UX/Properties/PublishProfiles/FolderProfile.pubxml.user
+**/publish/*
