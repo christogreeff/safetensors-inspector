@@ -1,8 +1,8 @@
 Safetensors Inspector
 =====================
 
-Safetensors Inspector is a tool that I created to learn the file structures and workings of 
-safetensors files.
+Safetensors Inspector is a tool that created to learn the file structures 
+and workings of safetensors files.
 
 ## Important
 
@@ -13,11 +13,11 @@ At present, the following safetensors are supported:
 
 ## Examples
 
-### Reading a single file
+### Parsing a single safetensors file
 
 ![](https://github.com/christogreeff/safetensors-inspector/blob/main/documentation/example01.gif)
 
-### Reading a folder full of files
+### Parsing a folder containing safetensors files
 
 ![](https://github.com/christogreeff/safetensors-inspector/blob/main/documentation/example02.gif)
 
